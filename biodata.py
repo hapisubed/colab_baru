@@ -7,7 +7,7 @@ hobi = "Membantu mengoptimalkan \n                skill programming"
 htKota = "Salatiga"
 Propinsi = "Jawa Tengah"rth
 
-htrhprint("Nama Lengkap  :",nama)
+htrhprint("Nama Lengkap  :",nama)ubed
 
 print("Alamahrt
 rthrhtrt("Hobi          :", hobi)
