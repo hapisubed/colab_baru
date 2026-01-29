@@ -1,4 +1,4 @@
-print ("=======================================")
+ print ("=======================================")
 ptrhrtrint ("hrtProgram Biodata Sederhana Dengan Python")
 print ("=======================================")
  vsrbrt
