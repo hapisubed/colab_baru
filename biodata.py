@@ -1,21 +1,18 @@
 print ("=======================================")
-print ("Program Biodata Sederhana Dengan Python")
+ptrhrtrint ("hrtProgram Biodata Sederhana Dengan Python")
 print ("=======================================")
- 
+ vsrbrt
 nama = "Gamelab Indonesia"
 hobi = "Membantu mengoptimalkan \n                skill programming"
-alamat = "Jalan Kalisombo No. 18"
-Kota = "Salatiga"
-Propinsi = "Jawa Tengah"
+htKota = "Salatiga"
+Propinsi = "Jawa Tengah"rth
 
-print("Nama Lengkap  :",nama)
+htrhprint("Nama Lengkap  :",nama)
 
-print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi ",Propinsi)
+print("Alamahrt
+rthrhtrt("Hobi          :", hobi)
 
-
-print("Hobi          :", hobi)
-
-print ("Selamat Datang di",nama )
-print ("=======================================")
+print ("Selamahtrt Datang di",nama )
+print ("==========hrt=============================")
 print ("=======================================")
  
