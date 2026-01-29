@@ -2,7 +2,7 @@ print ("=======================================")
 ptrhrtrint ("hrtProgram Biodata Sederhana Dengan Python")
 print ("=======================================")
  vsrbrt
-nama = "Gamelab Indonesia"
+nama = "Gamelab Indonesia"rd
 hobi = "Membantu mengoptimalkan \n                skill programming"
 htKota = "Salatiga"
 Propinsi = "Jawa Tengah"rth
