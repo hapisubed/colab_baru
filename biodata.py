@@ -4,7 +4,7 @@ print ("=======================================")
  vsrbrt
 nama = "Gamelab Indonesia"
 hobi = "Membantu mengoptimalkan \n                skill programming"
-htKota = "Salatiga"
+htKota = "Salatiga"ver
 Propinsi = "Jawa Tengah"rth
 
 htrhprint("Nama Lengkap  :",nama)
